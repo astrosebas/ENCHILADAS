@@ -3,15 +3,14 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-
-def conditional(x_ob, y_ob, x_tf, y_tf): #field,
+def conditional(x_ob, y_ob, x_tf, y_tf,box_l): #field,
 
     x = []
     y = []
     f = []
 
     # Diámetro de campo de visiión de TAOS-II
-    f_view = 1.7
+    f_view = box_l                              #decimal degrees
     df = f_view/2
 
     for i, ii in zip(x_ob, y_ob):
@@ -39,6 +38,5 @@ RA_ob = obs['RA']
 DEC_ob =  obs['DEC']
 
 # CALLING THE FUNCTION conditional
-ra, dec = conditional(RA_ob, DEC_ob, RA_fields, DEC_fields)
-
+ra, dec = conditional(RA_ob, DEC_ob, RA_fields, DEC_fields,1.7)
 
