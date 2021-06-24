@@ -1,9 +1,9 @@
-.. Group16 documentation master file, created by
-   sphinx-quickstart on Thu Jun 24 12:42:12 2021.
+.. Group15 documentation master file, created by
+   sphinx-quickstart on Thu Jun 24 13:04:48 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Group16's documentation!
+Welcome to Group15's documentation!
 ===================================
 
 .. toctree::
