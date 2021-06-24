@@ -1,5 +1,5 @@
 .. Group16 documentation master file, created by
-   sphinx-quickstart on Wed Jun 23 10:53:09 2021.
+   sphinx-quickstart on Thu Jun 24 12:42:12 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
