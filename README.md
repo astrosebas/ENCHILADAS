@@ -1,6 +1,6 @@
-# ENCHILADA
+# ENCHILADAS
 codE astro latiNs CrossmatcH of fIeLds AnD cAtalogs
-![alt text](https://github.com/astrosebas/ENCHILADAS/ENCHILADAS.png?raw=true)
+![Logo](ENCHILADAS.png)
 Repository for the tool Group 16 is developing as part of Code/Astro 2021
 
 ## Function:
