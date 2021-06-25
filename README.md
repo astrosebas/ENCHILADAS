@@ -1,6 +1,6 @@
 # ENCHILADAS
 codE astro latiNs CrossmatcH of fIeLds AnD cAtalogs
-![Logo](ENCHILADAS.png){ width: =900x900; }
+![Logo](ENCHILADAS.png =900x900)
 Repository for the tool Group 16 is developing as part of Code/Astro 2021
 
 ## Function:
