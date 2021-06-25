@@ -9,5 +9,5 @@ This project is aimed to make a coordinate crossmatch between a give list of fie
 ## Cloning this repository:
 Just open the terminal type:
 ```console
-$ git clone https://github.com/astrosebas/codeastro_group16.git
+$ git clone https://github.com/astrosebas/ENCHILADAS.git
 ```
